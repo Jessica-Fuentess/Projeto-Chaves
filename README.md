@@ -6,6 +6,12 @@ A proposta vai além da brincadeira: serve como prática de **validação de for
 
 ---
 
+## 🖼️ Demonstração
+
+🔗 [Acesse o site](https://jessica-fuentess.github.io/Projeto-Chaves/)
+
+---
+
 ## 🎯 Objetivo
 
 - 💡 Consolidar conceitos fundamentais do **JavaScript**, como estruturas condicionais e controle de eventos.
