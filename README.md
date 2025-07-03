@@ -61,20 +61,21 @@ A proposta vai além da brincadeira: serve como prática de **validação de for
 ## 📂 Estrutura de Pastas
 
 ```bash
-Projeto-Chaves/
-├── index.html
-├── style.css
-├── script.js
-├── imagens/
-│   ├── chaves.png
-│   ├── quico.png
-│   ├── chiquinha.png
-│   ├── seu-madruga.png
-│   ├── dona-clotilde.png
-│   ├── jaiminho.png
-│   ├── pops.png
-│   └── logo.png
+📁 Projeto-Chaves/
+├── 📄 index.html
+├── 🎨 style.css
+├── ⚙️ script.js
+├── 🖼️ imagens/
+│   ├── 🧒 chaves.png
+│   ├── 🎩 quico.png
+│   ├── 👧 chiquinha.png
+│   ├── 👴 seu-madruga.png
+│   ├── 👵 dona-clotilde.png
+│   ├── 👴 jaiminho.png
+│   ├── 👵 pops.png
+│   └── 🏷️ logo.png
 ```
+
 ---
 
 ## 👩‍💻 Autora
